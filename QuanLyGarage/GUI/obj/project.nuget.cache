@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EsviCc2r8+YMJbL+ai0R0q0UwRuts9hQb8VYQJ87Hr3eul189dyVJqBUUD2mSF4bPG1ttXNbJVQ7qJiaIaY+vA==",
+  "dgSpecHash": "L8JTv2OSyMNcSUi8HJ/88HA2cnSU302Q8W2RoSOslGTSo6hfVP2QtCbrKO8MAP4K8BUOPxlNHUo2AoGOga1ORg==",
   "success": true,
-  "projectFilePath": "C:\\github\\QuanLyGarage\\QuanLyGarage\\GUI\\GUI.csproj",
+  "projectFilePath": "C:\\github\\nguyet\\QuanLyGarage\\GUI\\GUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI_FPT\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\MSI_FPT\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

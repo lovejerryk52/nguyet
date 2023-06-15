@@ -508,11 +508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\QuanLyGarage\\QuanLyGarage\\GUI\\GUI.csproj",
+      "projectUniqueName": "C:\\github\\nguyet\\QuanLyGarage\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "C:\\github\\QuanLyGarage\\QuanLyGarage\\GUI\\GUI.csproj",
+      "projectPath": "C:\\github\\nguyet\\QuanLyGarage\\GUI\\GUI.csproj",
       "packagesPath": "C:\\Users\\MSI_FPT\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\QuanLyGarage\\QuanLyGarage\\GUI\\obj\\",
+      "outputPath": "C:\\github\\nguyet\\QuanLyGarage\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI_FPT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -529,11 +529,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\github\\QuanLyGarage\\QuanLyGarage\\BUS\\BUS.csproj": {
-              "projectPath": "C:\\github\\QuanLyGarage\\QuanLyGarage\\BUS\\BUS.csproj"
+            "C:\\github\\nguyet\\QuanLyGarage\\BUS\\BUS.csproj": {
+              "projectPath": "C:\\github\\nguyet\\QuanLyGarage\\BUS\\BUS.csproj"
             },
-            "C:\\github\\QuanLyGarage\\QuanLyGarage\\DAO\\DAO.csproj": {
-              "projectPath": "C:\\github\\QuanLyGarage\\QuanLyGarage\\DAO\\DAO.csproj"
+            "C:\\github\\nguyet\\QuanLyGarage\\DAO\\DAO.csproj": {
+              "projectPath": "C:\\github\\nguyet\\QuanLyGarage\\DAO\\DAO.csproj"
             }
           }
         }
